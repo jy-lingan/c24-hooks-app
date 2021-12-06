@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/c24-hooks-app/static/css/main.ccff8322.chunk.css",
+    "main.js": "/c24-hooks-app/static/js/main.b2b906d5.chunk.js",
+    "main.js.map": "/c24-hooks-app/static/js/main.b2b906d5.chunk.js.map",
+    "runtime-main.js": "/c24-hooks-app/static/js/runtime-main.596e337a.js",
+    "runtime-main.js.map": "/c24-hooks-app/static/js/runtime-main.596e337a.js.map",
+    "static/css/2.4be38407.chunk.css": "/c24-hooks-app/static/css/2.4be38407.chunk.css",
+    "static/js/2.b750b76e.chunk.js": "/c24-hooks-app/static/js/2.b750b76e.chunk.js",
+    "static/js/2.b750b76e.chunk.js.map": "/c24-hooks-app/static/js/2.b750b76e.chunk.js.map",
+    "index.html": "/c24-hooks-app/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/c24-hooks-app/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.ccff8322.chunk.css.map": "/c24-hooks-app/static/css/main.ccff8322.chunk.css.map",
+    "static/js/2.b750b76e.chunk.js.LICENSE.txt": "/c24-hooks-app/static/js/2.b750b76e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.596e337a.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.b750b76e.chunk.js",
+    "static/css/main.ccff8322.chunk.css",
+    "static/js/main.b2b906d5.chunk.js"
+  ]
+}
